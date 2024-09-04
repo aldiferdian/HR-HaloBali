@@ -45,7 +45,7 @@
                                 placeholder="Pilih Tanggal Lahir" value="{{ old('tanggal-lahir') }}">
                         </div>
                         <div class="col-6">
-                            <label for="" class="form-label" for="val-email">No. HP<span
+                            <label for="" class="form-label" for="val-email">No. HP kali<span
                                     class="text-danger">*</span></label>
                             <input type="text" required class="form-control" name="email" placeholder="Masukkan Email"
                                 value="{{ old('email') }}">
